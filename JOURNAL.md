@@ -7,11 +7,15 @@ created_at: "2025-07-21"
 
 # July 21st: Getting all the resources + schematic
 
+<img width="390" height="589" alt="image" src="https://github.com/user-attachments/assets/e92c7ae0-f273-453c-ba38-1bdc0248dd6d" />
+
 I am following [this](https://jams.hackclub.com/jam/hacker-card) tutorial loosely and choosing to use KiCad instead because I love it.
 
 Ultralibrarian was used to get the symbol & footprint of the NFC IC onto KiCad.
 
 For the NFC antenna, I found a KiCad [forum](https://forum.kicad.info/t/where-to-find-nfc-class-6-antenna-pcb-schematic-for-kicad/30212/5) post which a kind person has made some footprints.
+
+<img width="839" height="682" alt="image" src="https://github.com/user-attachments/assets/42556a87-bac5-42ef-ad54-23d79bbfffae" />
 
 Okay, it is a bit small, so I went ahead and generated my own nfc antenna with a [script](https://github.com/nideri/nfc_antenna_generator) I found.
 
