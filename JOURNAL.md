@@ -43,12 +43,29 @@ My info card should be done now, and is ready for fabrication!
 
 # July 23rd: Price Shortening
 
-I am importing my fabricated files from KiCad into JLCPCB to see how much it costs. This is also technically july 22nd but time flies :shrug:
+I am importing my fabricated files from KiCad into JLCPCB to see how much it costs. My goal is to be under $50 to fit the grant. This is also technically july 22nd but time flies :shrug:
+
+<img width="388" height="330" alt="image" src="https://github.com/user-attachments/assets/686f9a2e-2df3-4920-9563-2ef1ccb033d7" />
 
 Tariffs are also really a pain.
 
-I changed the PCBA quantity from 5 to 2.
+<img width="394" height="322" alt="image" src="https://github.com/user-attachments/assets/0c312b07-d4d3-465a-8890-2f055e9ead65" />
+
+I changed the PCBA quantity from 5 to 2. It made a difference.
 
 I realized i have an unnecessary extended part, so i will go ahead and use a smaller LED.
 
-**Total time spent: ~1 hour**
+<img width="396" height="359" alt="image" src="https://github.com/user-attachments/assets/10dc58c6-5aba-4895-bca4-860ac54172c2" />
+
+I really cant do anything else. For safety reasons and the nature of this being a business card, I chose Lead Free HASL which added +$1.3 USD. 
+
+Everything else is made as cheap as I could. 
+ * 2x instead of 5x PCBa are being fabricated
+ * All components are basic except for one extended (the NFC IC suggested by the guide)
+ * No other addons
+
+There are no coupons available for me, even the ones that the customer support suggested did not work. 
+
+Sadly, I will have to pay the 9 dollars out of pocket.
+
+**Total time spent: ~2 hours**
