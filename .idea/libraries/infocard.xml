@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infocard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/production/infocard.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+AE1,card_nfc,1,Antenna_Loop,
+C1,0805,1,220nF,
+D1,0805,1,LED,
+R1,0805,1,47Ω,
+U1,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,1,NT3H2111W0FHKH,C710403

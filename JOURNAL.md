@@ -40,3 +40,15 @@ On the back side, i put some useful/common footprints for me to reference to lat
 My info card should be done now, and is ready for fabrication!
 
 **Total time spent: ~4 hours**
+
+# July 23rd: Price Shortening
+
+I am importing my fabricated files from KiCad into JLCPCB to see how much it costs. This is also technically july 22nd but time flies :shrug:
+
+Tariffs are also really a pain.
+
+I changed the PCBA quantity from 5 to 2.
+
+I realized i have an unnecessary extended part, so i will go ahead and use a smaller LED.
+
+**Total time spent: ~1 hour**
