@@ -7,11 +7,12 @@ A pcb in the shape of a standard size credit card with nft reading/writing capab
 
 ## Why I Made It
 
-I wanted to take a notch down on all the highly complicated PCBs I've made and create something more artsy. 
+I wanted to take a notch down on all the highly complicated PCBs I've made and create something more artsy. I gained more experience from using Krita with its keybinds and workflow.
 
 ## Schematic
 
-It's really simple.
+It's really simple. I don't think you can run anything else from NFC but a few components.
+
 <img width="257" height="417" alt="kicad_tgEUnuB24y" src="https://github.com/user-attachments/assets/87e6afe6-bd15-41e7-9e3e-837febda88e3" />
 
 ## BOM
