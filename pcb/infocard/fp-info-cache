@@ -1,4 +1,4 @@
-25642844148973783
+25653363660350640
 1_udu_lib
 HM-NFC-Class6-Antenna
 <h1> Class 6 Antenna - 50 pF #01 </h1>{return}<h3>{return}Size: 	24 x 18 mm{return}<br>{return}Width: 	0.25 mm{return}<br>{return}Gap: 	0.1 mm{return}<br>{return}Turns: 	7{return}</h3>
@@ -14,12 +14,33 @@ Untitled
 0
 0
 1_udu_lib
+card_drawing
+
+
+0
+0
+0
+1_udu_lib
 card_nfc
 
 
 0
 2
 2
+1_udu_lib
+card_nfc_bottom
+
+
+0
+0
+0
+1_udu_lib
+card_nfc_top
+
+
+0
+0
+0
 1_udu_lib
 class6_business_card
 
@@ -57224,6 +57245,13 @@ ceramic
 0
 3
 3
+Crystal
+Untitled
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -59254,6 +59282,13 @@ SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR
 0
 4
 4
+EasyEDA
+Untitled
+
+
+0
+0
+0
 EasyEDA
 XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH
 
@@ -82396,6 +82431,13 @@ Texas MicroSiP NoLead
 0
 18
 11
+Package_LGA
+Untitled
+
+
+0
+0
+0
 Package_LGA
 VLGA-4_2x2.5mm_P1.65mm
 VLGA, 4 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
